@@ -216,7 +216,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
     <td align="center">
       <a href="https://github.com/aryan13071">
         <img src="https://avatars.githubusercontent.com/u/215406749?v=4" width="100px;" alt="Aryan Sharma" style="border-radius: 50%;" /><br />
-        <sub><b>Aryan Sharma</b></sub>
+        <sub><b>Aryan Singh</b></sub>
       </a>
       <br />
       <sub>(@aryan13071)</sub>
@@ -226,7 +226,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
   </tr>
 </table>
 
-**Author:** [Aryan Sharma (@aryan13071)](https://github.com/aryan13071)  
+**Author:** [Aryan Singh (@aryan13071)](https://github.com/aryan13071)  
 **Project:** Scaler AI Challenge — Signal Messenger Clone  
 **Assisted By:** Google DeepMind Antigravity AI Agent  
 **Repository:** [https://github.com/aryan13071/Signal-Clone-Building](https://github.com/aryan13071/Signal-Clone-Building)  
